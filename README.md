@@ -1,0 +1,2 @@
+# Revolutionizing-Aquaculture-with-Real-time-water-quality-monitoring-system-using-ESP32
+An IoT-based aquaculture monitoring system using ESP32S3 and ThingsBoard. Features real-time tracking of pH (Nernst Equation), turbidity, water level, and air quality. Utilizes ESP-NOW for peer-to-peer sensor communication and WiFi for cloud data analytics, providing a scalable solution for smart aquatic farming management.
