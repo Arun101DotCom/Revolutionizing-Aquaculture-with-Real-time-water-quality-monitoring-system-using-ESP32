@@ -32,3 +32,20 @@ The system follows a decentralized architecture where sensor nodes collect data 
 - `/src`: Arduino `.ino` sketches for Master and Slave nodes.
 - `/docs`: Technical datasheets and circuit diagrams.
 - `/dashboard`: JSON exports of the ThingsBoard dashboard layout.
+
+### 📑 01_Technical Report
+Contains the full project documentation, including the scientific background on aqua-agriculture, sensor physics (Nernst Equation for pH), and system evaluation.
+
+### 💻 02_Source Codes
+Includes all Arduino (.ino) sketches for the ESP32S3:
+- `Master_Gateway.ino`: Handles Wi-Fi connectivity and ThingsBoard data transmission.
+- `Sensor_Node.ino`: Logic for ESP-NOW communication and sensor data acquisition.
+
+### 📸 03_Sensor Images
+High-resolution photos and reference images of the hardware components used, including the TSL2561 luminosity sensor, ultrasonic modules, and pH probes.
+
+### 🔌 04_Schematic Diagrams
+Detailed wiring and circuit diagrams. This section provides the blueprint for connecting the sensors to the ESP32S3 pins via I2C, UART, and GPIO.
+
+
+**Author:** Arun Chakkyadath Chandran 
